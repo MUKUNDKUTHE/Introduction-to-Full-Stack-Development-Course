@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Govt launches new education policy",
+    "content": "Policy focuses on skill-based learning.",
+    "label": "real"
+  },
+  {
+    "title": "Aliens land in New York City",
+    "content": "Citizens shocked by UFO appearance.",
+    "label": "fake"
+  },
+  {
+    "title": "Stock market hits record high",
+    "content": "Investors optimistic after budget.",
+    "label": "real"
+  },
+  {
+    "title": "Scientists discover immortality pill",
+    "content": "New drug claims to stop aging.",
+    "label": "fake"
+  }
+]
